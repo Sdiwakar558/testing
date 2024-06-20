@@ -35,4 +35,4 @@ print("Linked List:")
 new_linked_list.print_list()
         
 
-
+print("cdgufuuuuuuu")
